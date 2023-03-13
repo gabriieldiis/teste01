@@ -1,1 +1,1 @@
-window.alert('Olá, Seja bem vindo aos meus links :)'); //é para um alerta
+// window.alert('Olá, Seja bem vindo aos meus links :)'); //é para um alerta
